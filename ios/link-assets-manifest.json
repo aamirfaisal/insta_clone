@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/Fonts/blue_vinyl_bold_ps_ot.otf",
+      "sha1": "d7e7730cec934d76d546b579eb84aa576a6f18d5"
+    },
+    {
+      "path": "src/Assets/Fonts/blue_vinyl_regular_ps_ot.otf",
+      "sha1": "c52b09f44a59646636d1096ad10a05b5e610751c"
+    },
+    {
+      "path": "src/Assets/Fonts/Lobster-Regular.ttf",
+      "sha1": "bf2c7d8e38f749f550d8226e04c917996582159c"
+    }
+  ]
+}
